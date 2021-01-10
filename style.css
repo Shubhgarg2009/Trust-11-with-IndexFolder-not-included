@@ -578,7 +578,7 @@ font-family: 'Poppins', sans-serif;
 footer{
 
 bottom: 0px;
-width: 1340px;
+width: "windowWidth";
 background: #111;
 }
 .main-content{
